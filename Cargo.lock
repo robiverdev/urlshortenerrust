@@ -862,6 +862,8 @@ name = "r-urlshortener"
 version = "0.1.0"
 dependencies = [
  "actix-web",
+ "rand",
+ "serde",
 ]
 
 [[package]]
